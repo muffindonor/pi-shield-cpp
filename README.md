@@ -66,5 +66,4 @@ build/pithing_check hosts.txt easylist.txt -- ads.example.com www.example.org
   from Git Bash can load Git for Windows' older `libstdc++-6.dll` from `PATH`
   and crash.
 - Target hardware is a Raspberry Pi 3B (Cortex-A53, 1 GB RAM, 100 Mbit
-  Ethernet). It needs a fresh Raspberry Pi OS Lite install, because the
-  current card has Windows IoT Core on it.
+  Ethernet) running Raspberry Pi OS Lite.
