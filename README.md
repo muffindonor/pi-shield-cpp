@@ -1,8 +1,8 @@
 # PiThing
 
 A network-wide ad blocker written in C++20, meant to run on a Raspberry Pi 3B.
-The goal is to beat DNS sinkholes like Pi-hole in places where they are
-structurally weak, while staying small and fast enough for a Pi.
+The aim is a small DNS blocker that also checks CNAME aliases for hidden
+trackers, sized to run on a Pi. No comparison with Pi-hole has been made.
 
 ## Status
 
